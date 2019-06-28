@@ -1,1 +1,1 @@
-<?php echo "new page git hub changes in mastereeerrrrr"; ?>
+<?php echo "Now changes for git reset command check"; ?>
