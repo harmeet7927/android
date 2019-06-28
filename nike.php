@@ -1,1 +1,1 @@
-<?php echo "new page of nike"; ?>
+<?php echo "new page of nike change in brand"; ?>
